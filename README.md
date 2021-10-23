@@ -13,7 +13,7 @@ Database Ingestion using psycopg2 to postgresql
   -  `source venv/bin/activate` (Linux/MacOS)
   -  `'venv-name'\Scripts\activate` (Windows)
 ## **Road Map**
-* Create DDL (Data Definition Language) using psycopg2 to **CREATE, DROP, ALTER** table from **JSON file**
+* Create DDL (Data Definition Language) using psycopg2 to **CREATE, DROP, ALTER** table based on **JSON file**
 <p align="center">
   <img width="460" src="https://github.com/syrico/DataIngestionPython/blob/main/roadmap.png?raw=true" alt="Sublime's custom image"/>
 </p>
