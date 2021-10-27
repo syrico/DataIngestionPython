@@ -10,7 +10,7 @@ Database Ingestion using psycopg2 to postgresql
   - Go to repository directory and create virtual environment :
   -  `python -m venv 'venv-name'`
   -  Activate virtual env :
-  -  `source venv/bin/activate` (Linux/MacOS)
+  -  `source 'venv-name'/bin/activate` (Linux/MacOS)
   -  `'venv-name'\Scripts\activate` (Windows)
 ## **Road Map**
 * Create DDL (Data Definition Language) using psycopg2 to **CREATE, DROP, ALTER** table based on **JSON file**
